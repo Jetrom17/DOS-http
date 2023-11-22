@@ -6,3 +6,15 @@ Stress testing over HTTP. For educational purposes only. So you can understand h
 The code works by attacking with 59 requests every 5 seconds. In 1 hour we have 42 MB.
 
 > Testing done on Google Firebase.
+
+
+### IN
+
+- `git clone https://github.com/Jetrom17/DOS-http`
+- `cd DOS-http`
+- `python3 dos.py`
+
+### Requeriments
+
+- Git
+- Python3
