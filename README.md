@@ -8,7 +8,7 @@
 
 The script has been updated to be more efficient in terms of testing and weak applications without protection. The proxy corsproxy.io was used to bypass initial blocks. By default, 200 sockets are sent to attack the OSI layer 7 (application). The attack is of the HTTP flooding type.
 
-> [!DANGER]
+> [!CAUTION]
 > IP masking may not work.
 
 
